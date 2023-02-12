@@ -1,4 +1,4 @@
-## EDA INSIGHT
+## EDA Insight
 
 - Jumlah kandidat yang ingin mencari perubahan pekerjaan dengan pengalaman yg relevan dengan Data Science adalah sebesar 2.961, dengan persentase sebanyak 21.4%, sedangkan jumlah kandidat yang ingin mencari perubahan pekerjaan namun tidak memiliki pengalaman yang relevan dengan Data Science (switch career) adalah sebesar 3.550, dengan persentase sebanyak 66.1%. <br>
 Rekomendasi bisnis : Perusahaan bisa meninjau ulang untuk membuat kandidat yang memiliki pengalaman yang relevan untuk switching career.
