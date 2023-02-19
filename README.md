@@ -202,7 +202,7 @@ Kolom yang digunakan adalah education_level dimana penggunaan unique value-nya p
 'Graduate', 'Masters', 'Phd' = 'yes'
 'Primary School' dan 'High School' = 'no'
 
-##. I. Additional Feature
+## I. Additional Feature
 Unemployment Duration
 Jika diberikan kesempatan untuk bekerja sebagai data scientist, orang yang telah menganggur dalam waktu yang lama pasti akan tertarik untuk mengambil kesempatan ini dan beralih profesi.
 Salary
