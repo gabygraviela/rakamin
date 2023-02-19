@@ -46,3 +46,8 @@ Rekomendasi bisnis : Perusahaan lebih memperhatikan dalam melakukan screening ke
 2. Persentase kandidat yang mencari perubahan pekerjaan bisa dinaikan dengan perusahaan dapat lebih mempromosikan benefit yang didapatkan dari training, salah satunya mendapatkan kesempatan dalam program penyaluran tenaga kerja perusahaan di bidang data scientist.
 3. Perusahaan lebih memperhatikan dalam melakukan screening kelayakan kandidat untuk mengikuti training pada perusahaan, sehingga kandidat yang didapatkan adalah mereka yang benar-benar serius dan berpeluang lulus dalam waktu yang diharapkan.
 4. Perusahaan bisa lebih memperhatikan asal kota dari tiap kandidat yang mendaftar, karena kandidat yang berasal dari kota-kota kecil memiliki peluang untuk mencari perubahan pekerjaan.
+
+
+ # Data Pre-Processing
+ 
+ 
